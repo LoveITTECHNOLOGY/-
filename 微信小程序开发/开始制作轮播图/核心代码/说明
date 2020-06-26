@@ -1,0 +1,6 @@
+自定义标题:   "navigationStyle":"custom" 在app.json里面
+view相当于盒子模型
+<swiper>
+<swiper-item>图片标签
+autoplay=true 
+indicator-dots="true"制作轮播图的点
