@@ -1,0 +1,36 @@
+.container
+{
+  width: 100%;
+}
+.Iunbor swiper-item,.Iunbor swiper-item image
+{
+  width: 100%;
+  
+  
+}
+
+
+/*********主体盒子*****/
+.box
+
+{
+
+}
+.box .box-title
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.see-all
+{
+
+  
+}
+.see-all image
+{
+  display: flex;
+  width: 80%;
+  height: 80%;
+  vertical-align: middle; 
+}

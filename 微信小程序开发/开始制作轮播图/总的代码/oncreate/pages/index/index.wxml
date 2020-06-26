@@ -1,0 +1,26 @@
+<!--index.wxml-->
+<view class="placeholder"></view>
+<view class="container">
+<swiper class="Iunbor" autoplay="true" indicator-dots="true">
+<swiper-item>
+<image src="/img/hello.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image src="/img/hello1.jpg"></image>
+</swiper-item>
+<swiper-item>
+<image src="/img/hello2.jpg"></image>
+</swiper-item>
+
+
+</swiper>
+<view class="box">
+<view class="box-title">
+<text>我的课程(10)</text>
+<view class="see-all">查看全部
+<image src="/img/right.jpg"></image>
+</view>
+</view>
+<view class="box-content"></view>
+</view>
+</view>
